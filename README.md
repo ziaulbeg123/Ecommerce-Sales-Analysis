@@ -1,6 +1,5 @@
 # Ecommerce-Sales-Analysis
 
-# E-commerce Sales Analysis
 
 ## Project Overview
 This project analyzes the sales performance of an online store using **Python, SQL, and Power BI**.  
